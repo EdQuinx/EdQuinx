@@ -25,8 +25,10 @@ Life is too short, tomorrow is not promised. Don't wait for things to be perfect
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website] 
 
 [website]:  https://github.com/EdQuinx/
+[fb]:  https://facebook.com/LTBQLQD/
+
 <br/>
 
 ## Connect with me
-[<img align="left" alt="luthebao.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/a2c227fc325e26e1e7253190606ac4ccb5f56438/topics/facebook/facebook.png" />][fb]
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
