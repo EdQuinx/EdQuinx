@@ -1,17 +1,17 @@
 # Hello, I'm EdQuinx
-## _A lIttle Penguin never give up_
+## _A lIttle Penguin who never gives up_
 
 
-Life is too short, tomorrow is not promised. Don't wait for things to be perfect. Live it now. You never know when you will no longer have the chance.
+Life is too short. Don't wait until things are perfect. Own it now. You will never now when opportunities slip through your fingers.
 
 ## About me
 
 - A Junior Developer
-- I’m currently learning everything
-- Enjoy playing Yu-Gi-Oh!, Teamfight Tactics; listening music and reading book
-- ✨Poor guy have a big dream and never give up for that✨
-- 2022 Goals: Coding better, have more Open Source projects and make myself more better
-- Fun fact: I don't eat spicy foods T^T, prefer listen to sadness music than EDM, pops and rock :>
+- I have thirst for knowledge
+- A big fan of Yu-Gi-Oh!, Teamfight Tactics, music and books
+- ✨A kid who is ambitious, and strives ceaselessly for dreams bigger than who he is✨
+- 2022 Goals: Code better, have more Open Source projects and be a better version of myself
+- Fun facts: I dislike spicy foods. I'm more into melancholy music than whimsical, joyous one :>
 
 ## Languages and Tech
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
