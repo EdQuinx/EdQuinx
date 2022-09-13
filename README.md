@@ -2,7 +2,7 @@
 ## _A lIttle Penguin who never gives up_
 
 
-Life is too short. Don't wait until things are perfect. Own it now. You will never now when opportunities slip through your fingers.
+Life is too short. Don't wait until everything is perfect. Own it now. You will never know when opportunities slip through your fingers.
 
 ## About me
 
