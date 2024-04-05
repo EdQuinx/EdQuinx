@@ -4,26 +4,45 @@
 
 Life is too short. Don't wait until everything is perfect. Own it now. You will never know when opportunities slip through your fingers.
 
-## About me
+**About me**
 
-- A Junior Developer
-- I have thirst for knowledge
-- A big fan of Yu-Gi-Oh!, Teamfight Tactics, music and books
-- ✨A kid who is ambitious, and strives ceaselessly for dreams bigger than who he is✨
-- 2022 Goals: Code better, have more Open Source projects and be a better version of myself
-- Fun facts: I dislike spicy foods. I'm more into melancholy music than whimsical, joyous one :>
+- 💼 Backend Developer (NodeJS - ExpressJS, .NET/.NET Core)
 
-## Languages and Tech
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website] 
+- 💼 Frontend Developer (.Net Core MVC, ReactJS, ViteJS)
 
+- 💼 DDTank Programmer at [CyrusTeam](https://cyrusteam.github.io/]
+
+- ❤️ Favorite Languages: .NET, JavaScript
+
+
+**Languages and Tools:**  
+
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>    
+
+
+| <a href="https://github.com/vinhkosd"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinhkosd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/vinhkosd"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkosd&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/vinhkosd/ro-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=ro-client&theme=buefy" />
+</a>
+<a href="https://github.com/vinhkosd/personal-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=personal-management&theme=buefy" />
+</a>
+<a href="https://github.com/vinhkosd/qb-adminmenu-for-esx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=qb-adminmenu-for-esx&theme=buefy" />
+</a>
+<a href="https://github.com/vinhkosd/flutter-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vinhkosd&repo=flutter-demo&theme=buefy" />
+</a>
 [website]:  https://github.com/EdQuinx/
 [fb]:  https://facebook.com/LTBQLQD/
 
