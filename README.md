@@ -10,7 +10,7 @@ Life is too short. Don't wait until everything is perfect. Own it now. You will 
 
 - 💼 Frontend Developer (.Net Core MVC, ReactJS, ViteJS)
 
-- 💼 DDTank Programmer at [CyrusTeam](https://cyrusteam.github.io/]
+- 💼 DDTank Programmer at [OneRisez Studio](https://1risez.com/]
 
 - ❤️ Favorite Languages: .NET, JavaScript
 
